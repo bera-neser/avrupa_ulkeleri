@@ -2,7 +2,7 @@
 
 
 a = Analysis(
-    ['C:\\Users\\eezgi\\OneDrive\\Masaüstü\\My_Projects\\python_projects\\Europe_Countries_Game\\main.py'],
+    ['main.py'],
     pathex=[],
     binaries=[],
     datas=[],
