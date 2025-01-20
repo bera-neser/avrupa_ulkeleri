@@ -7,3 +7,5 @@ Avrupa Ülkeleri Tahmin Oyunu
 * Avrupa ülke isimleri
 * Haritadaki koordinatları (.csv dosyasında tutuldu)
 * Coğrafya bilgisi 
+
+Developed with the help of @bera-neser
